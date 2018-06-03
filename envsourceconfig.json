@@ -1,0 +1,6 @@
+{
+	"oauthhost": "${RRRLBING_OAUTH_HTTP}",
+	"oauthport": "${OAUTH_HTTP_SERVICE_PORT}",
+	"oauthreshost": "${RRRLBING_OAUTHRES_HTTP}",
+	"oauthresport": "${OAUTHRES_HTTP_SERVICE_PORT}"
+}
